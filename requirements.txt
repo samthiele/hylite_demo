@@ -4,4 +4,4 @@
 #
 #    pip-compile
 #
-hylite>=1.0.3 # install hylite from pip
+hylite>=1.0.4 # install hylite from pip
